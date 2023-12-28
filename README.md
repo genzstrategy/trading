@@ -1,1 +1,3 @@
-# causal-crypto
+# Causal Crypto 
+
+Code underpinning the Causal Crypto Newsletter. 
