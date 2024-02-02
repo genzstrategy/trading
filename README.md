@@ -16,14 +16,14 @@ This workspace contains various Jupyter notebooks for creating day trading model
   - `coin-metrics.ipynb`: Notebook for collecting data from Coin Metrics.
   - `yahoo-finance.ipynb`: Notebook for collecting data from Yahoo Finance.
 
-- `dudley/`: Contains notebooks for the Dudley method of analysis.
+- `dudley/`: Contains notebooks for the Dudley deep learning model (Temporal Fusion Transformer).
   - `dudley-high.ipynb`: Dudley deep learning model for BTC-USD daily high.
   - `dudley-low.ipynb`: Dudley deep learning model for BTC-USD daily low.
 
 ## License
 
-MIT License: This project is licensed under the terms of the LICENSE file.
+This project is licensed under the terms of the MIT License.
 
 ## Contributing
 
-Please read the CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to me.
+Please read the CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests to me.
