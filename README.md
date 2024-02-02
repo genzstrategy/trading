@@ -1,7 +1,4 @@
 # Gen Z Strategy's Trading Models
-
-# Bitcoin Analysis Workspace
-
 This workspace contains various Jupyter notebooks for creating day trading models.
 
 ## Directory Structure
