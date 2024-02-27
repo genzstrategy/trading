@@ -162,5 +162,7 @@ cython_debug/
 *.parquet
 *.jpg
 *.pth
+*.csv
+*.tsv
 
 lightning_logs/
